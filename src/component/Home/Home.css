@@ -1,0 +1,18 @@
+.home-container {
+    display: flex;
+    background-color:rgb(230, 217, 217);
+    margin-top:40px;
+    text-align: left;
+    
+}
+.image-container img{
+    width:500px;
+    height:600px;
+    width:100%;
+}
+.text-container{
+    margin: 90px;
+    margin-bottom:80px;
+    width:50%;
+    padding: 40px;
+}

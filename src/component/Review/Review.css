@@ -1,0 +1,6 @@
+.review-section{
+    display: grid;
+    grid-template-columns: repeat(3, 2fr);
+    grid-gap: 50px;
+    margin:100px;
+}
